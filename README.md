@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Naz</h1>
 <h3 align="center">Hello, I am a Front End Developer who always updates herself. You can check out my account to review my projects.</h3>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/Yfl7CS7vQqnebA69aH/200w.webp?cid=ecf05e47s2m35aopulgg553xd5qrhpu6t8oy42aiw5jevzm8&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazcelebi&label=Profile%20views&color=0e75b6&style=flat" alt="nazcelebi" /> </p>
 
 - 📫 How to reach me **nazzcelebi@gmail.com**
+- 🌱 I’m currently learning HTML,CSS,React and Javascript
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
