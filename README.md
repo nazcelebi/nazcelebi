@@ -3,8 +3,6 @@
 
 <img align="right" alt="Coding" width="270" src="https://media1.giphy.com/media/Yfl7CS7vQqnebA69aH/200w.webp?cid=ecf05e47s2m35aopulgg553xd5qrhpu6t8oy42aiw5jevzm8&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazcelebi&label=Profile%20views&color=0e75b6&style=flat" alt="nazcelebi" /> </p>
-
 - 📫 How to reach me **nazzcelebi@gmail.com**
 - 🌱 I’m currently learning HTML,CSS,React and Javascript
 
